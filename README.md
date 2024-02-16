@@ -1,6 +1,6 @@
 # Systems Engineering
 
-Welcome to the repository for my Systems Engineering course at NYU. This repository contains detailed analyses and a project related to various aspects of systems engineering. Below is a brief overview of the contents:
+Welcome to the repository for my Systems Engineering course at NYU. This repository contains detailed analysis and a project related to various aspects of systems engineering. Below is a brief overview of the contents:
 
 ## Analysis of Passenger Automobile Subsystems and Complex Systems
 I have provided a detailed analysis of passenger automobile subsystems, including test interfaces, and in-built test indicators. The analysis is presented from the perspective of systems engineering, highlighting the importance of these subsystems in the overall functioning of the automobile. Additionally, I have provided a detailed analysis of complex systems, focusing on the need analysis and the need for technology evolution.
