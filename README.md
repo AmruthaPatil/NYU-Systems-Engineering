@@ -1,4 +1,4 @@
-# Systems Engineering Course Repository
+# Systems Engineering
 
 Welcome to the repository for my Systems Engineering course at NYU. This repository contains detailed analyses and a project related to various aspects of systems engineering. Below is a brief overview of the contents:
 
